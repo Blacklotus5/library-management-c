@@ -1,6 +1,7 @@
 /********************************************
-Project title : Library Management system   
-Date 		: 	13-12-2024
+Project title :     Library Management system   
+Author        :     BlackLotus
+Date 		  : 	13-12-2024
 *********************************************/
 #include <stdio.h>
 #include <stdlib.h>
